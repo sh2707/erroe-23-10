@@ -1,0 +1,9 @@
+1>------ Build started: Project: PDCA Sender, Configuration: Debug|AnyCPU ------
+1>D:\SH\vs code\23-10-26\PDCA_DefaultAuto_Tray\PDCA-Soft_Com-Tray\PDCA Sender-Sh\MainWindow.xaml.cs(19,7,19,27): warning CS0105: The using directive for 'System.Windows.Media' appeared previously in this namespace
+1>D:\SH\vs code\23-10-26\PDCA_DefaultAuto_Tray\PDCA-Soft_Com-Tray\PDCA Sender-Sh\MainWindow.xaml.cs(545,21,545,187): warning CS4014: Because this call is not awaited, execution of the current method continues before the call is completed. Consider applying the 'await' operator to the result of the call.
+1>D:\SH\vs code\23-10-26\PDCA_DefaultAuto_Tray\PDCA-Soft_Com-Tray\PDCA Sender-Sh\MainWindow.xaml.cs(550,21,550,85): warning CS4014: Because this call is not awaited, execution of the current method continues before the call is completed. Consider applying the 'await' operator to the result of the call.
+1>D:\SH\vs code\23-10-26\PDCA_DefaultAuto_Tray\PDCA-Soft_Com-Tray\PDCA Sender-Sh\MainWindow.xaml.cs(604,17,604,134): warning CS4014: Because this call is not awaited, execution of the current method continues before the call is completed. Consider applying the 'await' operator to the result of the call.
+1>D:\SH\vs code\23-10-26\PDCA_DefaultAuto_Tray\PDCA-Soft_Com-Tray\PDCA Sender-Sh\MainWindow.xaml.cs(614,30,614,94): warning CS4014: Because this call is not awaited, execution of the current method continues before the call is completed. Consider applying the 'await' operator to the result of the call.
+1>D:\SH\vs code\23-10-26\PDCA_DefaultAuto_Tray\PDCA-Soft_Com-Tray\PDCA Sender-Sh\MainWindow.xaml.cs(623,66,623,73): error CS0103: The name 'Process' does not exist in the current context
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+Build failed.
